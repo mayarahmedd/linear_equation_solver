@@ -1,0 +1,5 @@
+3
+LU-decomposition
+x + y - z + 3
+6*x + 2*y + 2*z - 2
+-3*x + 4*y + z - 1
