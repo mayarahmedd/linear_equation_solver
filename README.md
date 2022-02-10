@@ -1,4 +1,4 @@
-# linear_equation_solver
+# Linear Equation Solver
 Objective:
 Project 2
 The aim of this assignment is to compare and analyze the behavior of numerical
