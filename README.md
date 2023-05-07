@@ -9,6 +9,7 @@ You are required to implement a program forsolving systems of linear equations, 
 takes as an input the equations, the technique to use and its required parameters.
 Specification:
 - The program must contain the following features:
+
 1- An interactive GUI that enables the user to enter a set of linear equations.
 
 2- Reading from files must be available as well (all the inputs are available in the same
